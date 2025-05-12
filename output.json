@@ -1,0 +1,26 @@
+{
+  "dish": "paneer butter masala",
+  "total_cooked_weight": 409,
+  "nutrition_per_katori_150g": {
+    "energy_kcal": 237.6,
+    "carb_g": 7.69,
+    "protein_g": 8.61,
+    "fat_g": 19.12,
+    "fibre_g": 2.8
+  },
+  "log": [
+    "multiple nutrition matches found for 'paneer'. Using first match: Paneer",
+    "Mapped 'Paneer' to 'Paneer' with 100g.",
+    "multiple nutrition matches found for 'butter'. Using first match: Butter",
+    "Mapped 'Butter' to 'Butter' with 14g.",
+    "multiple nutrition matches found for 'onion'. Using first match: Onion, stalk (Allium cepa)",
+    "Mapped 'Onion' to 'Onion, stalk (Allium cepa)' with 100g.",
+    "multiple nutrition matches found for 'tomato'. Using first match: Tomato, green (Solanum lycopersicum)",
+    "Mapped 'Tomato' to 'Tomato, green (Solanum lycopersicum)' with 150g.",
+    "multiple nutrition matches found for 'oil'. Using first match: Oil, olive",
+    "Mapped 'Oil' to 'Oil, olive' with 13g.",
+    "multiple nutrition matches found for 'cream'. Using first match: Cream, fresh, whipping",
+    "Mapped 'Cream' to 'Cream, fresh, whipping' with 30g.",
+    "Mapped 'Mixed Spices' to 'Mixed curry spices' with 2g."
+  ]
+}
